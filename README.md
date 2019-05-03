@@ -62,17 +62,17 @@ Once the project is open, I will briefly describe each section of Xcode, and how
    This tab Contain the principal info of your App, must be selected to edit the info that I will describe below.
 
 3.  
-  * Display Name:  Is the name of your App
-  * Bundle Identifier: will be the name assigned in the Apple Store, and will never change throughout the development.
-  * Version:  It will be the version of your app, and it should be increased with each change you make.
-  * Build: Is similar to Version.
+   * Display Name:  Is the name of your App
+   * Bundle Identifier: will be the name assigned in the Apple Store, and will never change throughout the development.
+   * Version:  It will be the version of your app, and it should be increased with each change you make.
+   * Build: Is similar to Version.
 
 4. Signing
-  * Automatically Manage Signing  (if it is enabled everything happens easier)
+   * Automatically Manage Signing  (if it is enabled everything happens easier)
 5. Team
-  * The TEAM must be previously defined from the Apple developer account.
+   * The TEAM must be previously defined from the Apple developer account.
 6. Device Orientation
-  * Depending on the need, it may be convenient to disable the horizontal mode (landscape) this will prevent the appearance of your app from breaking.
+   * Depending on the need, it may be convenient to disable the horizontal mode (landscape) this will prevent the appearance of your app from breaking.
      
  
  

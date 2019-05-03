@@ -44,9 +44,10 @@ At this point we should no longer have to use Ionic, unless we need to make a si
  
  ```
  /name_of_your_app/platforms/ios/name_of_your_app.xcodeproj
- ```
+ ```   
+ 
  
- Once the project is open, I will briefly describe each section of Xcode, and how to identify and familiarize ourselves with the work area.    
+Once the project is open, I will briefly describe each section of Xcode, and how to identify and familiarize ourselves with the work area.    
  
  
  

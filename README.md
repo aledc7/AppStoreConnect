@@ -104,4 +104,13 @@ This tab allows you to customize all the features you want to enable for it. Nee
 Undoubtedly, it is the tab with the greatest number of options, and you will have to consult the official documentation to see all this in detail. I just want to tell you that at the moment I did not have to touch anything here.
 
 
+### Uploading your first Review
+
+Once you have everything configured, you will be ready to send Apple your first revision, for this it is important to verify that you are logged in with the same credentials that you used to create the Apple Developer account.
+You must make sure that the data of your TEAM is correct.
+
+
+![Xcode Capture Image](https://raw.githubusercontent.com/aledc7/AppStoreConnect/master/assets/Xcode_Accounts.png "Xcode Capture Image")
+
+
   

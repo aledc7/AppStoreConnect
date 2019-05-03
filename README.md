@@ -1,6 +1,6 @@
 # App Store Connect
 
-## How to Upload yout App Mobile to the Apple Store
+## How to Upload yout App Mobile to the Apple Store throught App Store Connect
 
 
 Need to have:
@@ -10,7 +10,7 @@ Need to have:
 - [x] Xcode 10
 - [x] Ionic Framework 4
 - [x] Steadfastness
-- [x] Time... of course
+- [x] Time... of course.
 
 
 
@@ -74,7 +74,22 @@ Once the project is open, I will briefly describe each section of Xcode, and how
 6. Device Orientation
    * Depending on the need, it may be convenient to disable the horizontal mode (landscape) this will prevent the appearance of your app from breaking.
      
+     
+ ### info Tab
  
+ ![Xcode Capture Image](https://raw.githubusercontent.com/aledc7/AppStoreConnect/master/assets/Xcode_info.png "Xcode Capture Image")
+ 
+ In this tab we can manage all the permissions that our App uses.
+ 
+ This screen is actually an editor of a background .xml file.   
+ If we observe we will notice that we have three columns:
+__Key, Type, Value__
+
+Normally we will only make changes in the Value column.
+
+Each permission that the App requires comes by default with a text that explains the reason for the need. However, you may have to modify this text by hand in certain situations.
+
+
  
 
 

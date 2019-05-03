@@ -90,8 +90,18 @@ Normally we will only make changes in the Value column.
 Each permission that the App requires comes by default with a text that explains the reason for the need. However, you may have to modify this text by hand in certain situations.
 
 
- 
+### Capabilities Tab
 
+![Xcode Capture Image](https://raw.githubusercontent.com/aledc7/AppStoreConnect/master/assets/Xcode_capabilities.png "Xcode Capture Image")
+
+This tab allows you to customize all the features you want to enable for it. Needless to say that the more you enable, the more complex the start-up of your app will be.
+
+
+### Build Settings Tab
+
+![Xcode Capture Image](https://raw.githubusercontent.com/aledc7/AppStoreConnect/master/assets/Xcode_Build_Settings.png "Xcode Capture Image")
+
+Undoubtedly, it is the tab with the greatest number of options, and you will have to consult the official documentation to see all this in detail. I just want to tell you that at the moment I did not have to touch anything here.
 
 
   

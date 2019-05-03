@@ -35,18 +35,18 @@ ionic cordova prepare ios --verbose
 
 The command above will generate the project for ios platform, and ready to be opened with __XCODE__    
 
-## 2 - Editing the Project with XCode
+## 2 - Editing the Project with XCode   
 
-At this point we should no longer have to use Ionic, unless we need to make a significant modification to our App.
+At this point we should no longer have to use Ionic, unless we need to make a significant modification to our App.    
 
- 2.1 First we open Xcode and we will open a file "File -> Open"
- 2.2 Then find the file with extension .xcodeproj that is located in this route:
+ 2.1 First we open Xcode and we will open a file "File -> Open"     
+ 2.2 Then find the file with extension .xcodeproj that is located in this route:    
  
  ```
  /name_of_your_app/platforms/ios/name_of_your_app.xcodeproj
  ```
  
- Once the project is open, I will briefly describe each section of Xcode, and how to identify and familiarize ourselves with the work area.   
+ Once the project is open, I will briefly describe each section of Xcode, and how to identify and familiarize ourselves with the work area.    
  
  
  

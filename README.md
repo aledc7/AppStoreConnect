@@ -3,7 +3,7 @@
 ## How to Upload yout App Mobile to the Apple Store throught App Store Connect
 
 
-Need to have:
+You Need to have:
 
 - [x] iOS equipment
 - [x] Apple Developer Account 

@@ -24,7 +24,7 @@ property and other relevant rights and is responsible for offering any services 
 ```
 
 
-Here is a response from a member of the Apple team:
+Here is a response in [Apple forum](https://forums.developer.apple.com/thread/94663) from a member of the Apple team:
 
 
 ```

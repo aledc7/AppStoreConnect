@@ -24,3 +24,26 @@ property and other relevant rights and is responsible for offering any services 
 ```
 
 
+Here is a response from a member of the Apple team:
+
+
+```
+Guideline 5.2.1 - Legal - Intellectual Property
+ 
+
+Jan 4, 2018 at 7:00 AM
+
+From Apple
+
+Hello,
+
+Thank you for providing this information. Your app must be published under a seller name and company name that reflects the ABCXYZ name. If you have developed this app on behalf of a client, please advise your client to add you to the development team of their Apple Developer account.
+
+Best regards,
+
+App Store Review Team
+
+
+
+```
+

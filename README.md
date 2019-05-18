@@ -1,9 +1,7 @@
 # App Store Connect
+## How to Upload yout App Mobile to the Apple Store throught App Store Connect
 
 [<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
-
-
-## How to Upload yout App Mobile to the Apple Store throught App Store Connect
 
 
 You Need to have:
